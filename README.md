@@ -4,7 +4,7 @@ A multi-threaded http server with thread-pooling implemented in Java.
 
 ## Getting Started
 
-git clone [...]
+git clone https://github.com/VladManolache/jHttpServer.git
 
 ### Prerequisites
 
